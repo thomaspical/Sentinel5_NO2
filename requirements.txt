@@ -1,0 +1,15 @@
+# Core
+gunicorn>=19.8.1
+dash>=1.0.0
+json5>=0.9.4
+netCDF4>=1.5.3
+numpy>=1.18.2+mkl
+pandas>=1.0.3
+plotly>=4.6.0
+request>=2019.4.13
+requests>=2.23.0
+reverse-geocoder>=1.5.1
+urllib3>=1.25.8
+ujson>=1.35
+zipp>=3.1.0
+
