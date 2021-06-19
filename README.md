@@ -3,6 +3,8 @@ Sentinel5_NO2 V2
 
 Downloading, cleaning and aggregation of NO2 (Nitrogen Dioxide) datas from the European satellite Sentinel5. This work is being carried out as part of the AMSECovid19 project.
 
+DOWNLOAD AVAILABLE HERE : https://drive.google.com/drive/folders/1fJWwxo8MXBL7DKDqvwYQVlYa2W7g0TpQ?usp=sharing
+
 MAJOR UPDATE : Complete overhaul of the file structure. Addition of a powerful logging system and a progressbar. Optimization of the code. 
 
 Increase of ~30-50% in file size and processing time, with the benefit of less RAM required and new information essential for data processing: 
