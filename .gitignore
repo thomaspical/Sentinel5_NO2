@@ -2,10 +2,16 @@
 /_can_be_deleted/
 /confidential/
 confidential/
-/datas_sentinel5/archives
-/datas_sentinel5/cleaned
-/datas_sentinel5/csv
 secrets.py
+/notebooks/SQL_try.ipynb
+/notebooks/get_sentinel5.ipynb
+Sentinel_project.docx
+Sentinel_project.pdf
+analysis/
+
+*.csv.gz
+*.rar
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
